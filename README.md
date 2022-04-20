@@ -1,9 +1,13 @@
-h1 align="center">Hi 👋, I'm Lilly-ana</h1>
-<h3 align="center">Full Stack Software DevOn a learning journey with the school of code where I am learning to become a full stack software developer.</h3>
+ Hi 👋, I'm Lilly-ana
+ 
+<h3 align="center">On a learning journey with the School of code where I am learning to become a full stack software developer.</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilly-ane" alt="lilly-ane" /></a> </p>
 
+
 - 📫 How to reach me **lucalavinia23@yahoo.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
