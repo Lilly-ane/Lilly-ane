@@ -1,6 +1,6 @@
  Hi 👋, I'm Lilly-ana
  
-<h3 align="center">On a learning journey with the School of code where I am learning to become a full stack software developer.</h3>
+<h3 align="center">On a learning journey to become a full stack software developer.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilly-ane" alt="lilly-ane" /></a> </p>
